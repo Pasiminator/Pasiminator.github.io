@@ -1,2 +1,2 @@
 # Pasiminator.github.io
- this is a html/cc project
+ this is a html/css project
