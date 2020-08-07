@@ -23,7 +23,7 @@ nav span {
     padding: 20px 10px;
 }
 
-#head span a{
+#thread span a{
     color: seashell;
     font-family: Helvetica;
     font-size: 22px;
@@ -64,10 +64,8 @@ body{
 #main {
     background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
     background-position: center;
-    margin:0 auto;
-
     width: 1200px;
-    min-height: 700px;
+    height: 700px;
     width: 100%;
     opacity: 0.9;
     top: 100px;
@@ -83,7 +81,7 @@ body{
     
 }
 #central_imgs img {
-    min-height: 200px;
+    height: 200px;
     width: 300px;
     text-align: center;
     display: inline-block;
@@ -125,7 +123,7 @@ body{
 footer {
     text-align: left;
     margin-left: 10px;
-    color: aliceblue;
+    color: seagreen;
     
 }
 
