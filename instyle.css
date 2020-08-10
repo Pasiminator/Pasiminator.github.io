@@ -30,6 +30,12 @@ nav span {
     opacity: 0.9;
     padding: 10px;
     text-decoration: underline;
+    
+
+}
+#thread span a:hover{
+    background-color:gray;
+    border-radius: 50px;
 
 }
 
@@ -78,11 +84,15 @@ body{
     width: 100%;
     text-align: center;
     margin-top: 250px;
+    margin-right: 100px;
+    margin-left: 0px;
+    border-radius: 50px;
+
     
 }
 #central_imgs img {
-    height: 200px;
-    width: 300px;
+    height: 250px;
+    width: 350px;
     text-align: center;
     display: inline-block;
     font-family: Helvetica;
@@ -91,6 +101,8 @@ body{
     color: seashell;
     margin-bottom: 10px;
     padding: 25px;
+    border-radius: 150px;
+
     
 
     
@@ -114,8 +126,18 @@ body{
     opacity: 1;
     display: flex;
     flex-direction: column;
+    border-radius: 20px;
+
 
 }
+.cont-flex .clock{
+    min-height: 700px;
+    
+   
+    
+
+}
+
 .contact {
     height: 200px;
 }
