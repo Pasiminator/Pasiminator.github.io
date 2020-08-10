@@ -84,7 +84,8 @@ body{
     width: 100%;
     text-align: center;
     margin-top: 250px;
-    margin-right: 100px;
+    margin-right: auto;
+    margin-left: auto;
     margin-left: 0px;
     border-radius: 50px;
 
@@ -132,7 +133,8 @@ body{
 }
 .cont-flex .clock{
     min-height: 700px;
-    
+    flex-basis: 400px;
+    padding: 20px;
    
     
 
